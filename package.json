@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "p-limit": "^6.1.0",
     "puppeteer": "^23.5.3"
   }
 }
